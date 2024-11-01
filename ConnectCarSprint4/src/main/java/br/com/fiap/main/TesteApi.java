@@ -26,7 +26,7 @@ public class TesteApi {
 		if (endereco != null) {
 			System.out.println(endereco.toString());
 		} else {
-			System.out.println("O cep solicitado não pode ser encontrado!");;
+			System.out.println("O cep solicitado não pode ser encontrado!!");;
 		}
 	}
 
